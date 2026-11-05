@@ -1,0 +1,11 @@
+{
+  "name": "quizzone-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix \"my project\" run dev",
+    "build": "npm --prefix \"my project\" run build",
+    "preview": "npm --prefix \"my project\" run preview"
+  }
+}
+
