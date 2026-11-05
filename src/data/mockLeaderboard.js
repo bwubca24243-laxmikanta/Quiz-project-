@@ -1,0 +1,107 @@
+export const INITIAL_LEADERBOARD = [
+  {
+    id: 'lead-1',
+    name: 'Sarah Chen',
+    avatar: '👩‍💻',
+    title: 'Algorithm Alchemist',
+    category: 'all',
+    score: 9850,
+    quizzesTaken: 48,
+    accuracy: 97.4,
+    streak: 19,
+    badge: 'Grandmaster',
+    rank: 1
+  },
+  {
+    id: 'lead-2',
+    name: 'Marcus Vance',
+    avatar: '⚡',
+    title: 'Database Architect',
+    category: 'dbms',
+    score: 9420,
+    quizzesTaken: 42,
+    accuracy: 95.8,
+    streak: 14,
+    badge: 'SQL Wizard',
+    rank: 2
+  },
+  {
+    id: 'lead-3',
+    name: 'Elena Rostova',
+    avatar: '🧠',
+    title: 'Deep Learning Researcher',
+    category: 'ai',
+    score: 9180,
+    quizzesTaken: 39,
+    accuracy: 94.2,
+    streak: 11,
+    badge: 'Neural Knight',
+    rank: 3
+  },
+  {
+    id: 'lead-4',
+    name: 'Devon Hughes',
+    avatar: '🌐',
+    title: 'Network Systems Lead',
+    category: 'networks',
+    score: 8790,
+    quizzesTaken: 36,
+    accuracy: 92.5,
+    streak: 8,
+    badge: 'Packet Master',
+    rank: 4
+  },
+  {
+    id: 'lead-5',
+    name: 'Aisha Patel',
+    avatar: '🚀',
+    title: 'Full Stack Engineer',
+    category: 'programming',
+    score: 8450,
+    quizzesTaken: 34,
+    accuracy: 91.0,
+    streak: 12,
+    badge: 'Code Ninja',
+    rank: 5
+  },
+  {
+    id: 'lead-6',
+    name: 'Liam O\'Connor',
+    avatar: '🎯',
+    title: 'Tech Historian',
+    category: 'gk',
+    score: 8120,
+    quizzesTaken: 31,
+    accuracy: 89.6,
+    streak: 7,
+    badge: 'Trivia Ace',
+    rank: 6
+  },
+  {
+    id: 'lead-7',
+    name: 'Sophia Tanaka',
+    avatar: '✨',
+    title: 'Security Analyst',
+    category: 'networks',
+    score: 7910,
+    quizzesTaken: 29,
+    accuracy: 88.4,
+    streak: 6,
+    badge: 'Firewall Sentinel',
+    rank: 7
+  },
+  {
+    id: 'lead-8',
+    name: 'Jordan Miller',
+    avatar: '🔥',
+    title: 'Cloud DevOps Specialist',
+    category: 'programming',
+    score: 7640,
+    quizzesTaken: 27,
+    accuracy: 87.2,
+    streak: 5,
+    badge: 'Prodigy',
+    rank: 8
+  }
+];
+
